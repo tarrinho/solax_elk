@@ -12,7 +12,7 @@ Can I get the data from Solax?
      http://<solaxIP>/api/realTimeData.htm
     
    Can I add a timestamp to the event?
-    Yes -> here (tbd)
+    Yes -> here https://github.com/tarrinho/solax_elk/blob/master/get_data_solax.sh
      
    Example of the output
      
@@ -24,7 +24,7 @@ Can I parse that data?
   
    What does it mean?
        Thanks Hobi I was able to parse it -> https://github.com/GitHobi/solax/wiki/direct-data-retrieval
-       Internal file for backup -> here (tbd)
+       Internal file for backup -> here https://github.com/tarrinho/solax_elk/blob/master/backup_from_GitHobi_solax
        
        
    Now that I have that log file how can I parse it?
