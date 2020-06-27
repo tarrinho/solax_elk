@@ -44,4 +44,5 @@ https://github.com/tarrinho/solax_elk/blob/master/logstash_solax.conf
 *Step 4:
 
 Adding the Index Pattern to Kibana and starting the visualization :D 
-       Configuration file :
+       
+       <img src="https://github.com/tarrinho/solax_elk/blob/master/Kibana.Dashboard-Solax-data.png"> 
