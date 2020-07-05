@@ -1,5 +1,5 @@
 # solax_elk
-Solax Inverter json to ELK Stack (ElasticSearch + Logshtash + Kibana)
+Solax Inverter json to ELK Stack (ElasticSearch + Logstash + Kibana)
 
 
 *Goal:
